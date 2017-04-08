@@ -73,6 +73,7 @@ class ViewController: UIViewController {
                 txttv.text = "Nghiem cua phuong trinh la: " + y
         
             }
+            //test
         
         }
         else{
